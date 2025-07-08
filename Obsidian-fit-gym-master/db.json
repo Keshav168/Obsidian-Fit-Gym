@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": "6ce2",
+      "username": "Keshav ",
+      "password": "Kanu1@saini",
+      "email": "keshavsaini1005@gmail.com",
+      "dob": "2005-05-11"
+    },
+    {
+      "id": "fb64",
+      "username": "keshav saini",
+      "password": "Kanu1@saini",
+      "email": "keshavsaini1005@gmail.com",
+      "dob": "2005-05-10"
+    },
+    {
+      "id": "3af4",
+      "username": "Abhimanu Saini",
+      "password": "Manu1@saini",
+      "email": "abhimanusaini071@gmail.com",
+      "dob": "2003-09-28"
+    },
+    {
+      "id": "cc60",
+      "username": "Rahul",
+      "password": "Rahul",
+      "email": "rahul.20jime033@jiet.ac.in",
+      "dob": "2002-11-02"
+    },
+    {
+      "id": "6756",
+      "username": "Akash",
+      "password": "Akash",
+      "email": "akash12@gmail.com",
+      "dob": "2024-10-03"
+    },
+    {
+      "id": "7023",
+      "username": "Keshav Saini",
+      "password": "Kanu1@saini",
+      "email": "keshavsaini1005@gmail.com",
+      "dob": "2005-05-10"
+    },
+    {
+      "id": "c4c7",
+      "username": "Krish Jamwal",
+      "password": "prem",
+      "email": "krish123@gmail.com",
+      "dob": "2008-01-04"
+    },
+    {
+      "id": "5ffd",
+      "username": "Keshav ",
+      "password": "Kanu1@saini",
+      "email": "keshavsaini1005@gmail.com",
+      "dob": "2005-05-10"
+    },
+    {
+      "id": "89fc",
+      "username": "Keshav ",
+      "password": "Kanu1@saini",
+      "email": "keshavsaini1005@gmail.com",
+      "dob": "2005-05-10"
+    },
+    {
+      "id": "4017",
+      "username": "Vikshap",
+      "password": "123@vikshap",
+      "email": "vikshap123@gmail.com",
+      "dob": "2005-02-23"
+    },
+    {
+      "id": "0577",
+      "username": "Surya",
+      "password": "Surya6",
+      "email": "surya1224@gmail.com",
+      "dob": "2006-12-25"
+    },
+    {
+      "id": "f071",
+      "username": "Keshav ",
+      "password": "kanu1",
+      "email": "keshavsaini1005@gmail.com",
+      "dob": "2025-01-12"
+    },
+    {
+      "id": "a7e8",
+      "username": "",
+      "password": "",
+      "email": "",
+      "dob": ""
+    }
+  ]
+}

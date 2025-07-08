@@ -1,0 +1,83 @@
+/* General Styles for the Form */
+.form-container {
+    margin-top: 3rem;
+  }
+  
+  .form-heading {
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #6c757d;
+  }
+  
+  .form-wrapper {
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 3rem;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .kaa{
+    font-weight: semi-bold;
+
+  }
+   .haa{
+     
+        background: linear-gradient(to bottom, #2d3436, #1c1c1c), url('https://th.bing.com/th/id/OIP.MblziNCvcdUAosfcAjhS3wHaEG?pid=ImgDet&w=195&h=107&c=7&dpr=1.4');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        height: 100vh;
+        color: #fff; /* Ensures text is visible against the dark background */
+      
+   }
+    
+  .form-label {
+    font-weight: 500;
+    font-size: 1.1rem;
+    color: #495057;
+  }
+  
+  .form-control {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: border 0.3s ease, box-shadow 0.3s ease;
+    width: 100%;
+  }
+  
+  .form-control:focus {
+    border-color: #495057;
+    box-shadow: 0 0 5px rgba(72, 123, 208, 0.6);
+  }
+  
+  .form-control::placeholder {
+    color: #6c757d;
+  }
+  
+  .submit-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: #343a40;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%;
+  }
+  
+  .submit-btn:hover {
+    background-color: #23272b;
+  }
+  
+  .submit-btn:focus {
+    outline: none;
+  }
+  
+  
